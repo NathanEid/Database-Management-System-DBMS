@@ -6,7 +6,7 @@ The Project aim to develop DBMS, that will enable users to store and retrieve th
 
 ##### You should read this file before running.
 
-###### The DBMS Features.
+##### The DBMS Features.
 
 - The Database will store as Directory on Current Script File
 - The Select of Rows displayed in screen/terminal in  an Accepted/Good Format
@@ -29,7 +29,7 @@ Upon user Connect to Specific Database, there will be new Screen with this Menu:
 - Delete From Table
 - Update Table
 
-###### Some Steps to run the DBMS in perfect way.
+##### Some Steps to run the DBMS in perfect way.
 
 1- You have to group all files at the same Directory any where at your disk.
 
