@@ -1,5 +1,5 @@
 # ITI-DevOps
-## Bash-Script_Project
+## Bash-Script-Project
 ### Database Management System (DBMS).
 
 The Project aim to develop DBMS, that will enable users to store and retrieve the data from Hard-disk.
